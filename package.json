@@ -1,0 +1,12 @@
+"contributes": {
+  "commands": [
+    {
+      "command": "arrow.openChat",
+      "title": "Arrow: Open AI Chat"
+    },
+    {
+      "command": "arrow.generateCode",
+      "title": "Arrow: Generate Code with AI"
+    }
+  ]
+}
